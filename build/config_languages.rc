@@ -1,0 +1,17 @@
+LANGUAGE LANG_ENGLISH, SUBLANG_DEFAULT
+STRINGTABLE
+BEGIN
+    101, "Home"
+    102, "Settings"
+    103, "Exit"
+    // Outras strings...
+END
+
+LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
+STRINGTABLE
+BEGIN
+    101, "Inicio"
+    102, "Configurações"
+    103, "Sair"
+    // Outras strings em português...
+END

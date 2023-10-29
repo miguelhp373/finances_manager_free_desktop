@@ -1,0 +1,53 @@
+# Arquivos de compilação Delphi
+*.dof
+*.identcache
+*.local
+*.dsk
+*.config
+*.manifest
+*.exe
+*.map
+*.drc
+*.res
+*.dll
+*.bpl
+*.dcp
+*.dcu
+*.lib
+*.obj
+
+# Diretórios de saída
+bin/
+debug/
+release/
+Win32/
+Win64/
+
+# Arquivos de configuração do IDE Delphi
+*.dsk
+*.dproj.local
+*.identcache
+*.map
+
+# Arquivos de configuração do Delphi
+*.cfg
+*.dof
+*.bdsproj
+*.bdsgroup
+
+# Diretórios de saída do IDE Delphi
+__history/
+__recovery/
+__intf/
+__metadata/
+__recovery/
+
+# Arquivos temporários e de backup
+*~
+*.bak
+*.old
+*.sav
+
+# Arquivos específicos do Delphi
+ModelSupport*.csv
+MMStorage*.xml
